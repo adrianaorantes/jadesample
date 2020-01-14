@@ -1,0 +1,54 @@
+img{
+	height: 300px;
+
+}
+div{
+	padding-left: 40px
+}
+h1{
+	color: #7D5C65;
+
+}
+
+.container-background3{
+	background-color:#8D5B4C;
+}
+.font-size-medium{
+	font-size: 70px;
+}
+.blue-text{
+	color: #8D5B4C;
+}
+#greeting{
+	color:#594157;
+}
+#this-header{
+	font-size: 45px;
+}
+#header-2{
+	font-size: 100px;
+}
+#school{
+	color:#B0A084;
+}
+.font-quicksand{
+	font-family: 'Quicksand', sans-serif;
+}
+.font-quando{
+	font-family: 'Quando', serif;
+}
+.text-center{
+	text-align: center;
+}
+.container-background{
+	background-color:#ECB8A5;
+}
+.container-background2{
+	background-color:#13262F;
+}
+.purple {
+  background-color: #b19cba;
+}
+.blue{
+  background-color: #9cbab2;
+}
